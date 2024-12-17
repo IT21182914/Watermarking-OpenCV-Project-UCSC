@@ -1,0 +1,11 @@
+
+/output/set1/
+/output/set2/
+/output/set3/
+*.jpg
+*.png
+*.mp4
+
+
+/data/
+/large_files/
