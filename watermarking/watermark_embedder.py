@@ -25,3 +25,4 @@ def informed_process_images(input_dir, output_dir, bit, alpha):
         cv2.imwrite(os.path.join(output_dir, filename), watermarked_img)
         print(f"Informed watermark embedded for {filename}")
 
+
